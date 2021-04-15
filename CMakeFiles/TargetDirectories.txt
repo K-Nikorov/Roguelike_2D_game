@@ -1,0 +1,3 @@
+/home/kirill/msu_cmc_cg_2021/MyRoguelike/CMakeFiles/rebuild_cache.dir
+/home/kirill/msu_cmc_cg_2021/MyRoguelike/CMakeFiles/main.dir
+/home/kirill/msu_cmc_cg_2021/MyRoguelike/CMakeFiles/edit_cache.dir
